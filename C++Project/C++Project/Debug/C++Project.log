@@ -1,0 +1,4 @@
+﻿  Setup.cpp
+f:\c++ programming\c++project\c++project\setup.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++Project.vcxproj -> F:\C++ programming\C++Project\Debug\C++Project.exe
+  C++Project.vcxproj -> F:\C++ programming\C++Project\Debug\C++Project.pdb (Full PDB)
